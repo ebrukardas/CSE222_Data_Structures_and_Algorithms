@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"<Unnamed>","l":"Guest"},{"p":"<Unnamed>","l":"GuestTest"},{"p":"<Unnamed>","l":"Hotel"},{"p":"<Unnamed>","l":"Main"},{"p":"<Unnamed>","l":"ManagementSystem"},{"p":"<Unnamed>","l":"Receptionist"},{"p":"<Unnamed>","l":"ReceptionistTest"},{"p":"<Unnamed>","l":"Room"},{"p":"<Unnamed>","l":"SystemTest"}]

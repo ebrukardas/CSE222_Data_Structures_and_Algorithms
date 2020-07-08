@@ -1,0 +1,33 @@
+Zaide
+	İsmet
+		null
+	Fatma
+		Nurten
+			null
+		Mehmet
+			null
+		null
+	Gülşen
+		Birgül
+			null
+		Fethiye
+			null
+		Faruk
+			null
+		null
+	Hikmet
+		Elif
+			null
+		Esra
+			null
+		null
+	Zeki
+		null
+	null
+null
+
+
+
+Esra
+Faruk
+null
